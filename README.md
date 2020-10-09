@@ -1,6 +1,7 @@
 # LiteratureStemma
 
 LiteratureStemma is a Java program for developing tree representations of ancient texts and their translations/copies.
+STILL IN DEVELOPMENT. (planning on visual component and pathfinding)
 
 ## Installation
 
